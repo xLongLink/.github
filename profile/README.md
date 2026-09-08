@@ -22,7 +22,7 @@ LongLink handles the infrastructure.
 <div align="center">
 LongLink 2026
 
-[Website](https://longlink.dev) &nbsp; - &nbsp; [Documentation](https://longlink.dev/docs) [Linkedin](https://www.linkedin.com/company/81564727/admin/dashboard/) &nbsp; - &nbsp; [Contact](mailto:info@longlink.dev)
+[Website](https://longlink.dev) &nbsp; - &nbsp; [Documentation](https://longlink.dev/docs) &nbsp; - &nbsp; [Linkedin](https://www.linkedin.com/company/81564727/admin/dashboard/) &nbsp; - &nbsp; [Contact](mailto:info@longlink.dev)
 
 </div>
 
