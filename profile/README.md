@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="../lib/cover.jpeg" alt="LongLink cover" />
-
-<img src="https://www.longlink.dev/logo.svg" alt="LongLink logo" />
+<img src="../lib/cover_logo.png" alt="LongLink cover" />
 
 <br />
 
